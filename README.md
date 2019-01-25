@@ -1,24 +1,14 @@
-# README
+# Raddit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A Web that inspired by reddit and Hacker News.
 
-Things you may want to cover:
+this is web app developed using rails v.5 in order to learning new framework and to set my goals of 12 week 12 web app challange:
 
-* Ruby version
+## How to install
+* clone this repo
 
-* System dependencies
+* bundle install
 
-* Configuration
+* rake db:migrate
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* rails s
